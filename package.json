@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Siebra-dev/PetShop.git"
+    "url": "git+https://github.com/claraarmani/PetShop.git"
   },
   "keywords": [],
-  "author": "Renan Siebra Braz",
+  "author": "Clara dos Santos Armani",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Siebra-dev/PetShop/issues"
+    "url": "https://github.com/claraarmani/PetShop/issues"
   },
-  "homepage": "https://github.com/Siebra-dev/PetShop#readme"
+  "homepage": "https://github.com/claraarmani/PetShop#readme"
 }
