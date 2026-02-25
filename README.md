@@ -13,4 +13,4 @@ principalmente de nível técnico - **IFSP**
 
 `npm run dev`
 
-Autor **Clara dos Santos Armani**
+Autor **renan Siebra Braz**
