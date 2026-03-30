@@ -13,4 +13,4 @@ principalmente de nível técnico - **IFSP**
 
 `npm run dev`
 
-Autor **Renan Siebra Braz**
+Autor **renan Siebra Braz**
