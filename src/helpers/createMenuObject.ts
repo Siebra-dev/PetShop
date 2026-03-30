@@ -1,4 +1,4 @@
-type MenuOptions = 'all' | 'dogs' | 'cats' | 'fishes';
+type MenuOptions = '' | 'all' | 'dogs' | 'cats' | 'fishes';
 
 export const createMenuObject = (activeMenu: MenuOptions) => {
     let returnObject = {

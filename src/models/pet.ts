@@ -166,7 +166,7 @@ export const Pet = {
             })
             */
             return data.filter(item =>
-            item.name.toLocaleLowerCase().indexOf(name.toLocaleLowerCase()) > -1
+            item.name.toLowerCase().indexOf(name.toLowerCase()) > -1
            );
     }
 }
